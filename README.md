@@ -72,6 +72,3 @@ Typical size after cleanup:
 
 ---
 
-
-
-output_path
